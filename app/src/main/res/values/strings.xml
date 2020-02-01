@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyEgg</string>
+    <integer name="Telur">0</integer>
+</resources>
